@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://masuphoto-qatar.fomusglobal.com/sitemap.xml
